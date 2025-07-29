@@ -1,1 +1,5 @@
+DEITEL, Harvey M.; DEITEL, Paul J. Java: Como Programar. 10ª ed. Pearson, 2017.
+SIERRA, Kathy; BATES, Bert. Java: A Beginner’s Guide. 7ª ed. McGraw-Hill, 2018.
+Oracle. The Java Tutorials - Interfaces. Disponível em: https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html. Acesso em: 27 jul. 2025.
+Oracle. The Java Tutorials - Abstract Methods and Classes. Disponível em: https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html. Acesso em: 27 jul. 2025.
 
